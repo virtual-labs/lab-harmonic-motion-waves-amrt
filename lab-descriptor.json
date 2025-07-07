@@ -15,35 +15,35 @@
     "name": "Melde's String Apparatus",
     "short-name": "meldes-string-apparatus",
     "repo": "https://github.com/virtual-labs/exp-meldes-string-apparatus-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Kundt's Tube Apparatus",
     "short-name": "kundts-tube-apparatus",
     "repo": "https://github.com/virtual-labs/exp-kundts-tube-apparatus-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Ultrasonic Interferometer",
     "short-name": "ultrasonic-interferometer",
     "repo": "https://github.com/virtual-labs/exp-ultrasonic-interferometer-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Doppler Effect",
     "short-name": "doppler-effect",
     "repo": "https://github.com/virtual-labs/exp-doppler-effect-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "A.C Sonometer",
     "short-name": "ac-sonometer",
     "repo": "https://github.com/virtual-labs/exp-ac-sonometer-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],

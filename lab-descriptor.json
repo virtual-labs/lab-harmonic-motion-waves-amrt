@@ -15,14 +15,14 @@
     "name": "Melde's String Apparatus",
     "short-name": "meldes-string-apparatus",
     "repo": "https://github.com/virtual-labs/exp-meldes-string-apparatus-amrt",
-    "tag": "v1.0.2",
+    "tag": "v1.0.3",
     "deploy": true
   },
   {
     "name": "Kundt's Tube Apparatus",
     "short-name": "kundts-tube-apparatus",
     "repo": "https://github.com/virtual-labs/exp-kundts-tube-apparatus-amrt",
-    "tag": "v1.0.2",
+    "tag": "v1.0.3",
     "deploy": true
   },
   {
@@ -64,7 +64,7 @@
     "name": "Hartley Oscillator",
     "short-name": "hartley-oscillator",
     "repo": "https://github.com/virtual-labs/exp-hartley-oscillator-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   }
 

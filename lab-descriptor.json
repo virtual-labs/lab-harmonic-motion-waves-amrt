@@ -29,7 +29,7 @@
     "name": "Ultrasonic Interferometer",
     "short-name": "ultrasonic-interferometer",
     "repo": "https://github.com/virtual-labs/exp-ultrasonic-interferometer-amrt",
-    "tag": "v1.0.3",
+    "tag": "v1.0.4",
     "deploy": true
   },
   {
